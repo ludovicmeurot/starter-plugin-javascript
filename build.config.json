@@ -1,0 +1,17 @@
+{
+    "app" : {
+        "name" : "MonPluginJavascript",
+        
+        "input" : {
+            "complete" : "entry/entry-complete.js",
+            "modular" : "entry/entry-modular.js"
+        },
+
+        "output" : {
+            "directory" : "dist/",
+            "filename": "mon-plugin-javascript"
+        }
+    },
+
+    "licence" : "Released under the MIT License."
+}

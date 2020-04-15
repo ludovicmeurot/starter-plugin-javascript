@@ -6,6 +6,7 @@ Ce paquet permet de démarrer rapidement un plugin javascript utilisable en modu
 2. Exécuter la commande `npm install --dev`
 3. Mettre à jour le fichier package.json pour qu'il correspondent à votre plugin.
 4. Mettre à jour le fichier build.config.json pour qu'il corresponde à votre plugin.
+5. Utiliser les fichiers entry/* et src/index.js pour démarrer votre plugin.
 
 ## Configurations
 Les configurations sont définis dans le fichier `build.config.json` <br />

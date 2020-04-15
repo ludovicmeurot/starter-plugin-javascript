@@ -1,7 +1,6 @@
-/**
- * Ce fichier permet de décrire l'export pour les applications modulaires
- */
-export default class className {
+import Core from '../src/index';
+
+export default class MonPluginJavascript extends Core 
+{
     
-    constructor() {}
 }

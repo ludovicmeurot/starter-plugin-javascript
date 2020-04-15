@@ -1,7 +1,6 @@
-/**
- * Ce fichier permet de décrire l'export pour les applications web complète (UMD)
- */
-export default class className {
-    
-    constructor() {}
+import Core from '../src/index';
+
+export default class MonPluginJavascript extends Core 
+{
+
 }

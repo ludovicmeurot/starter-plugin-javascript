@@ -1,7 +1,9 @@
+import {setBackgroundColorExample} from './utils/backgroundExample';
+
 export default class MonPluginJavascript {
 
     constructor()
     {
-        console.log("ici");
+        setBackgroundColorExample('#00B2ED');
     }
 }

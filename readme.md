@@ -26,4 +26,4 @@ Les configurations sont définis dans le fichier `build.config.json` <br />
 - `npm run build:js` : Exécute les commandes `build:esm` et `build:umd`
 
 ## Informations complémentaires
-Vous pouvez mettre à jour le fichier `build/banner.js` pour modifier les commentaires affiché dans les fichiers générés. 
+Vous pouvez mettre à jour le fichier `build/banner.js` pour modifier les commentaires affiché dans les fichiers générés.
